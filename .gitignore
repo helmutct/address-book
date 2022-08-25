@@ -1,0 +1,11 @@
+# Eclipse #
+###########
+.metadata/
+.metadata
+RemoteSystemsTempFiles/
+.recommenders/
+.recommenders
+.sonarlint
+ssh/
+.gradle
+.ucdetector_reports
